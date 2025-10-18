@@ -1,1 +1,1 @@
-# Python-Yandex-book
+# Python-book
